@@ -7,3 +7,5 @@ git add .
 git commit -m "message"
 git push
 
+# recuperer les modification du repository
+git pull
